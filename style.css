@@ -1,0 +1,36 @@
+h1 {
+    color: #9fd1cc;
+}
+
+h2 {
+    color: #FAEBEFFF;
+}
+h3 {
+    color: #8abad3ff;
+}
+p{
+  color: #c3d6d4;
+}
+li {
+    color: #fff4e8;
+}
+
+a {
+    color: #ADEFD1FF;
+}
+body{
+  background-color: #242424;
+}
+.shadow {
+   text-shadow: 1px 1px 0 black,
+                2px 2px 0 black;
+}
+.shadow:hover {
+   position: relative;
+   top: -3px;
+   left: -3px;
+   text-shadow: 1px 1px #000000,
+                2px 2px #000000,
+                3px 3px #000000,
+                4px 4px #000000;
+}
