@@ -6273,6 +6273,7 @@ a.close.disabled {
 
 .carousel-fade .carousel-item {
   opacity: 0;
+  -webkit-filter: grayscale(100%);
   transition-property: opacity;
   -webkit-transform: none;
   transform: none;
