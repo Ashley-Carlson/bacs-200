@@ -30,13 +30,13 @@
 	<div class="jumbotron top-space">
 		<div class="container">
 
-			<h3 class="text-center thin">Reasons to use this template</h3>
+			<h3 class="text-center thin">Reasons to use this compendium</h3>
 
 			<div class="row">
 				<div class="col-md-3 col-sm-6 highlight">
 					<div class="h-caption"><h4><i class="fa fa-cogs fa-5"></i>What is Roleplaying</h4></div>
 					<div class="h-body text-center">
-						<p>Beutifully described by D20 PSFRD, A roleplaying game is an interactive story where one player, the Game Master (GM), sets the scene and presents challenges,
+						<p>Beautifully described by D20 PSFRD, A roleplaying game is an interactive story where one player, the Game Master (GM), sets the scene and presents challenges,
               while other players take the roles of player characters (PCs) and attempt to overcome those challenges." Thus, roleplaying is a great way to bond with friends as well as learn about yourself</p>
 					</div>
 				</div>
@@ -47,7 +47,7 @@
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6 highlight">
-					<div class="h-caption"><h4><i class="fa fa-heart fa-5"></i>Character Building </h4></div>
+					<div class="h-caption"><h4><i class="fa fa-heart fa-5"></i>Simplified Character Building </h4></div>
 					<div class="h-body text-center">
 						<p>While time consuming, character creation can be a fun and exciting activity. The goal of this tool is to create a simplified compendium for new players and Dungeon Masters alike</p>
 					</div>
