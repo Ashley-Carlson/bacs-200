@@ -1,7 +1,8 @@
 <?php
   //include header template
+  echo '<body>';
   require('layout/header.php');
-  ?>
+?>
 	<!-- Header -->
 	<header id="head">
 		<div class="container">
