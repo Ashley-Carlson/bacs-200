@@ -1,7 +1,7 @@
 <?php
   //include header template
   echo '<body>';
-  require('layout/header.php');
+  include('layout/header.php');
 ?>
 	<!-- Header -->
 	<header id="head">
@@ -64,5 +64,5 @@
 	</div>
   <?php
   // add footer
-  require("layout/footer.php");
+  include("layout/footer.php");
   ?>
