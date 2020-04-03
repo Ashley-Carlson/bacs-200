@@ -2,9 +2,6 @@
   //include header template
   require('layout/header.php');
   ?>
-
-	<!-- /.navbar -->
-
 	<!-- Header -->
 	<header id="head">
 		<div class="container">
