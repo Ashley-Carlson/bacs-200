@@ -8,7 +8,7 @@
 
 	<link rel="shortcut icon" href="https://fennecology.com/bacs200/project/progressus/Progressus/assets/images/gt_favicon.png">
 
-	<link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
 	<link rel="stylesheet" href="https://fennecology.com/bacs200/project/progressus/Progressus/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://fennecology.com/bacs200/project/progressus/Progressus/assets/css/font-awesome.min.css">
 
