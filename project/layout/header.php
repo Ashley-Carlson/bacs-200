@@ -35,7 +35,7 @@
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
 					<li class="active"><a href="">Home</a></li>
-					<li><a href="about.html">About</a></li>
+					<li><a href="about.php">About</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Spells<b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -93,7 +93,7 @@
   						</ul>
 					</li>
           <li><a href="items.html">Magic Items</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="contact.php">Contact</a></li>
 					<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
