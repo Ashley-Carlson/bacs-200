@@ -20,15 +20,14 @@
 				<header class="page-header">
 					<h1 class="page-title">About us</h1>
 				</header>
-				<h3>Lorem ipsum</h3>
-				<p><img src="assets/images/mac.jpg" alt="" class="img-rounded pull-right" width="300" > Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.</p>
-				<p>Quos, aliquam nam velit impedit minus tenetur beatae voluptas facere sint pariatur! Voluptatibus, quisquam, error, est assumenda corporis inventore illo nesciunt iure aut dolor possimus repellat minima veniam alias eius!</p>
-				<h3>Necessitatibus</h3>
-				<p>Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</p>
-				<h3>Fugit, laboriosam</h3>
-				<p>Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?</p>
-				<h3>Legal Disclaimer</h3>
-				<p></p>
+				<h3>Fennec Fox Technologies and Design</h3>
+				<p><img src="https://images.pexels.com/photos/3359734/pexels-photo-3359734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" class="img-rounded pull-right" width="300" >
+        Fennec Fox Technologies is a small software company located out of Northern Colorado. We strive to provide meaningful and fun content that has a positive impact on
+      the world. To learn more please visit <a href="https://fennecology.com/">our website</a> to learn more</p>
+        <h3>Image Credits</h3>
+				<p>This website uses images from <a href="https://www.pexels.com/license/">pexels</a> and from Paizo in accordance with the community use package.
+        <h3>Paizo Legal Disclaimer</h3>
+				<p>This website uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo Inc. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Inc. and Paizo products, please visit paizo.com.</p>
 			</article>
 			<!-- /Article -->
 
