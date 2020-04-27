@@ -58,7 +58,7 @@
           <li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Races<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.html">Dwarf</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/dwarves.php">Dwarves</a></li>
 							<li><a href="sidebar-left.html">Elf</a></li>
 							<li><a href="sidebar-left.html">Gnome</a></li>
 							<li><a href="sidebar-left.html">Half Elf</a></li>
@@ -92,8 +92,8 @@
   							<li class="active"><a href="https://www.d20pfsrd.com/classes/">Other</a></li>
   						</ul>
 					</li>
-          <li><a href="items.html">Magic Items</a></li>
-					<li><a href="contact.php">Contact</a></li>
+          <li><a href="https://www.d20pfsrd.com/magic-items/">Magic Items</a></li>
+					<li><a href="https://fennecology.com/bacs200/project/contact.php">Contact</a></li>
 					<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
