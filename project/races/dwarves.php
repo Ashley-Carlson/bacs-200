@@ -1,7 +1,7 @@
 <?php
   //include header template
   echo '<body>';
-  include('layout/header.php');
+  include('../layout/header.php');
 ?>
 <div class="container">
 
@@ -83,5 +83,5 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
 </div>
 <?php
 // add footer
-include("layout/footer.php");
+include("../layout/footer.php");
 ?>
