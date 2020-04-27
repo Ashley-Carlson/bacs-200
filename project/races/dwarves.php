@@ -6,23 +6,22 @@
 <div class="container">
 
   <!-- Page Heading/Breadcrumbs -->
-  <h1 class="mt-4 mb-3">Portfolio Item
-    <small>Subheading</small>
-  </h1>
+  <h1 class="mt-4 mb-3">Dwarves</h1>
 
   <ol class="breadcrumb">
     <li class="breadcrumb-item">
-      <a href="index.html">Home</a>
+      <a href="fennecology.com/bacs200/projects">Home</a>
     </li>
-    <li class="breadcrumb-item active">Portfolio Item</li>
+    <li class="breadcrumb-item active">Dwarves</li>
   </ol>
 
   <!-- Portfolio Item Row -->
   <div class="row">
 
     <div class="col-md-8">
-      <img class="img-fluid" src="http://placehold.it/750x500" alt="">
+      <img class="img-fluid" src=../images/Dwarf1 alt="">
     </div>
+    <h2>Description</h2>
     <!-- /.remaining text -->
     <p>Dwarves are a stoic but stern race, ensconced in cities carved from the hearts of mountains and fiercely determined to repel the depredations of savage races like orcs and goblins. More than any other race, dwarves have acquired a reputation as dour and humorless artisans of the earth. It could be said that their history shapes the dark disposition of many dwarves, for they reside in high mountains and dangerous realms below the earth, constantly at war with giants, goblins, and other such horrors.
 
@@ -45,40 +44,48 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
 
       Female Names: Agna, Bodill, Ingra, Kotri, Rusilka, Yangrit.
     </div>
+    <h2>Racial Traits</h2>
   </div>
+  <ul>
+    <li>Ability Score Modifiers: Dwarves are both tough and wise, but also a bit gruff. They gain +2 Constitution, +2 Wisdom, and –2 Charisma.</li>
+    <li>Size: Dwarves are Medium creatures and thus receive no bonuses or penalties due to their size.</li>
+    <li>Type: Dwarves are humanoids with the dwarf subtype.</li>
+    <li>Base Speed: (Slow and Steady) Dwarves have a base speed of 20 feet, but their speed is never modified by armor or encumbrance.</li>
+    <li>Languages: Dwarves begin play speaking Common and Dwarven. Dwarves with high Intelligence scores can choose from the following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon. See the Linguistics skill page for more information about these languages.</li>
+    <li>Defensive Training: Dwarves gain a +4 dodge bonus to AC against monsters of the giant subtype.</li>
+    <li>Hardy: Dwarves gain a +2 racial bonus on saving throws against poison, spells, and spell-like abilities.</li>
+    <li>Greed: Dwarves gain a +2 racial bonus on Appraise checks made to determine the price of non-magical goods that contain precious metals or gemstones.</li>
+    <li>Stonecunning: Dwarves gain a +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking</li>
+    <li>Darkvision: Dwarves can see perfectly in the dark up to 60 feet</li>
+    <li>Hatred: Dwarves gain a +1 racial bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes because of their special training against these hated foes.</li>
+    <li>Weapon Familiarity: Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.</li>
   <!-- /.row -->
-
-  <!-- Related Projects Row -->
-  <h3 class="my-4">Related Projects</h3>
-
-  <div class="row">
-
-    <div class="col-md-3 col-sm-6 mb-4">
-      <a href="#">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-3 col-sm-6 mb-4">
-      <a href="#">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-3 col-sm-6 mb-4">
-      <a href="#">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </a>
-    </div>
-
-    <div class="col-md-3 col-sm-6 mb-4">
-      <a href="#">
-        <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-      </a>
-    </div>
-
+  <div class="col-md-8">
+    <img class="img-fluid" src="http://placehold.it/750x500" alt="">
   </div>
-  <!-- /.row -->
+  <h2>Racial Feats<h2>
+    
+    <li>Breadth of Experience</li>
+    <li>Brewmaster</li>
+    <li>Cleave Through</li>
+    <li>Cloven Helm</li>
+    <li>Dented Helm</li>
+    <li>Fight On</li>
+    <li>Giant Killer</li>
+    <li>Goblin Cleaver</li>
+    <li>Hard-headed</li>
+    <li>Improved Stonecunning</li>
+    <li>Ironguts</li>
+    <li>Ironhide</li>
+    <li>Ledge Walker</li>
+    <li>Let Them Come</li>
+    <li>Orc Hewer</li>
+    <li>Shatterspell</li>
+    <li>Steel Soul</li>
+    <li>Stone-Faced</li>
+    <li>Stone Singer</li>
+    <li>Toxic Recovery</li>
+    <li>Twin Thunders</li>
 
 </div>
 <?php
