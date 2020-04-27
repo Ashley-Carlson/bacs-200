@@ -60,9 +60,6 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
     <li><b>Hatred:</b> Dwarves gain a +1 racial bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes because of their special training against these hated foes.</li>
     <li><b>Weapon Familiarity:</b> Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.</li>
   <!-- /.row -->
-  <div class="col-md-8">
-    <img class="img-fluid" src="http://placehold.it/750x500" alt="">
-  </div>
   <h2>Racial Feats</h2>
 
     <li>Breadth of Experience</li>
