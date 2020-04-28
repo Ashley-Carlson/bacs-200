@@ -4,6 +4,7 @@
   include('../layout/header.php');
 ?>
 <div class="container">
+  <br><br><br><br><br>
 
   <!-- Page Heading/Breadcrumbs -->
   <h1 class="mt-4 mb-3">Elfs</h1>
@@ -43,7 +44,7 @@ Elves are not foolish enough, however, to dismiss all aspects of other races and
 
 <b>Alignment and Religion</b>: Elves are emotional and capricious, yet value kindness and beauty. Most elves are chaotic good, wishing all creatures to be safe and happy, but unwilling to sacrifice personal freedom or choice to accomplish such goals. They prefer deities who share their love of the mystic qualities of the world.
 
-Adventurers: Many elves embark on adventures out of a desire to explore the world, leaving their secluded realms to reclaim forgotten elven magic or search out lost kingdoms established millennia ago by their ancestors. This need to see a wider world is accepted by their societies as a natural part of becoming mature and experienced individuals. Such elves are expected to return in some few decades and take up lives in their homelands once more, enriched both in treasure and in worldview. For those elves raised among humans, however, life within their homes—watching friends and family swiftly age and die—is often stifling, and the ephemeral and unfettered life of an adventurer holds a natural appeal. Elves generally eschew melee because of their relative frailty, preferring instead to engage enemies at range. Most see combat as unpleasant even when needful, and prefer it be done as quickly as possible, preferably without getting close enough to smell their foes. This preference for making war at a distance, coupled with their natural accuracy and grasp of the arcane, encourages elves to pursue classes such as wizards and rangers.
+<b>Adventurers:</b> Many elves embark on adventures out of a desire to explore the world, leaving their secluded realms to reclaim forgotten elven magic or search out lost kingdoms established millennia ago by their ancestors. This need to see a wider world is accepted by their societies as a natural part of becoming mature and experienced individuals. Such elves are expected to return in some few decades and take up lives in their homelands once more, enriched both in treasure and in worldview. For those elves raised among humans, however, life within their homes—watching friends and family swiftly age and die—is often stifling, and the ephemeral and unfettered life of an adventurer holds a natural appeal. Elves generally eschew melee because of their relative frailty, preferring instead to engage enemies at range. Most see combat as unpleasant even when needful, and prefer it be done as quickly as possible, preferably without getting close enough to smell their foes. This preference for making war at a distance, coupled with their natural accuracy and grasp of the arcane, encourages elves to pursue classes such as wizards and rangers.
 
 Male Names: Caladrel, Heldalel, Lanliss, Meirdrarel, Seldlon, Talathel, Variel, Zordlon.
 
@@ -63,25 +64,24 @@ Female Names: Amrunelara, Dardlara, Faunra, Jathal, Merisiel, Oparal, Soumral, T
     <li><b>Weapon Familiarity:</b>Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon.</li>
     <li><b>Low-Light Vision:</b> Elves can see twice as far as humans in conditions of dim light.</li>
     <!-- /.row -->
-  <h2>Racial Feats</h2>
+  <h3>Racial Feats</h3>
 
     <li>Ancestral Weapon Mastery</li>
     <li>Arcane Talent</li>
-    <li>Attuned to the Wild
-        <li>Guardian of the Wild</li>
-        <li>Mage of the Wild</li>
-        <li>Spirit of the Wild</li></li>
+    <li>Attuned to the Wild</li>
+    <li>Guardian of the Wild</li>
+    <li>Mage of the Wild</li>
+    <li>Spirit of the Wild</li>
     <li>Breadth of Experience</li>
     <li>Eagle Eyes</li>
     <li>Elven Accuracy</li>
-    <li>Elven Battle Training
-        <li>Elven Battle Style
-            <li>Elven Battle Focus
-                <li>Elven Battle Torrent</li></li></li></li>
+    <li>Elven Battle Training</li>
+    <li>Elven Battle Style</li>
+    <li>Elven Battle Focus</li>
+    <li>Elven Battle Torrent</li>
     <li>Leaf Singer</li>
     <li>Light Step</li>
     <li>Stabbing Shot</li>
-
 
 </div>
 <?php

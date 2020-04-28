@@ -4,7 +4,7 @@
   include('../layout/header.php');
 ?>
 <div class="container">
-
+<br><br><br><br><br>
   <!-- Page Heading/Breadcrumbs -->
   <h1 class="mt-4 mb-3">Humans</h1>
 
@@ -23,7 +23,7 @@
     </div>
     <h2>Description</h2>
     <!-- /.remaining text -->
-    <p>   OHumans possess exceptional drive and a great capacity to endure and expand, and as such are currently the dominant race in the world. Their empires and nations are vast, sprawling things, and the citizens of these societies carve names for themselves with the strength of their sword arms and the power of their spells. Humanity is best characterized by its tumultuousness and diversity, and human cultures run the gamut from savage but honorable tribes to decadent, devil-worshiping noble families in the most cosmopolitan cities. Humans’ curiosity and ambition often triumph over their predilection for a sedentary lifestyle, and many leave their homes to explore the innumerable forgotten corners of the world or lead mighty armies to conquer their neighbors, simply because they can.
+    <p>   Humans possess exceptional drive and a great capacity to endure and expand, and as such are currently the dominant race in the world. Their empires and nations are vast, sprawling things, and the citizens of these societies carve names for themselves with the strength of their sword arms and the power of their spells. Humanity is best characterized by its tumultuousness and diversity, and human cultures run the gamut from savage but honorable tribes to decadent, devil-worshiping noble families in the most cosmopolitan cities. Humans’ curiosity and ambition often triumph over their predilection for a sedentary lifestyle, and many leave their homes to explore the innumerable forgotten corners of the world or lead mighty armies to conquer their neighbors, simply because they can.
 
 Human society is a strange amalgam of nostalgia and futurism, being enamored of past glories and wistfully remembered “golden ages,” yet at the same time quick to discard tradition and history and strike off into new ventures. Relics of the past are kept as prized antiques and museum pieces, as humans love to collect things—not only inanimate relics but also living creatures—to display for their amusement or to serve by their side. Other races suggest this behavior is due to a deep-rooted urge to dominate and assert power in the human psyche, an urge to take, till, or tame the wild things and places of the world. Those with a more charitable view believe humans are simply collectors of experiences, and the things they take and keep, whether living, dead, or never alive, are just tokens to remind themselves of the places they have gone, the things they have seen, and the deeds they have accomplished. Their present and future value is just a bonus; their real value is as an ongoing reminder of the inevitable progress of humanity.
 
@@ -57,7 +57,7 @@ Male Names: Aakif, Andrezi, Arasmes, Bahram, Baolo, Barid, Batsaikhan, Belor, Bu
     <li><b>Bonus Feat:</b> Humans select one extra feat at 1st level.</li>
     <li><b>Skilled:</b> Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.</li>
     <!-- /.row -->
-  <h2>Racial Feats</h2>
+  <h3>Racial Feats</h3>
 
     <li>Bestow Luck</li>
     <li>Critical Versatility</li>

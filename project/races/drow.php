@@ -19,7 +19,7 @@
   <div class="row">
 
     <div class="col-md-8">
-      <img class="img-fluid" src=../images/drow.PNG alt="">
+      <img class="img-fluid" src=../images/drow.png alt="">
     </div>
     <h2>Description</h2>
     <!-- /.remaining text -->
@@ -58,7 +58,7 @@ Female Names: Belmarniss, Cylellinth, Ilvaria, Johysis, Loscivia, Tyvorhan, Ulum
     <li><b>Light Blindness:</b>As deep underground dwellers naturally, drow suffer from light blindness. Abrupt exposure to any bright light blinds drow for 1 round. On subsequent rounds, they are dazzled as long as they remain in the affected area.</li>
     <!-- /.row -->
 
-  <h2>Racial Feats</h2>
+  <h3>Racial Feats</h3>
 
     <li>Drow Nobility
     <li>Drow Nobility, Greater

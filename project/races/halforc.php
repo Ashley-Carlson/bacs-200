@@ -4,6 +4,7 @@
   include('../layout/header.php');
 ?>
 <div class="container">
+<br><br><br><br><br>
 
   <!-- Page Heading/Breadcrumbs -->
   <h1 class="mt-4 mb-3">half orcs</h1>
@@ -42,7 +43,7 @@ Of all the other races, half-orcs are most sympathetic with halflings, who often
 
 Half-orcs are just as likely to have children that possess an innate talent for sorcery as any other race, with the abyssal, destined, and elemental (fire) bloodlines being the most common types of sorcerers. Half-orcs are fascinated by alchemy, and its destructive capabilities make its usefulness obvious in any orc tribe. Half-orc alchemists treat themselves as living experiments, even to the point of trying to separate their orc and human halves through alchemy. Other alchemists use their powers to enhance their physical abilities and thus increase their status within orc communities.
 
-In human societies, half-orcs have a few more options. Many find it easy to take advantage of the brute strength and work as mercenaries or caravan guards. Crime is another easy route for half-orcs, as there are plenty of criminals looking for a strong arm. Half-orc clerics in human communities are fairly rare; the more religious half-orcs more often turn to (or get pushed to) the martial aspects of religious service and become paladins or inquisitors. Half-orcs usually lack the patience and money required to become a wizard.
+<b>Adventurers:</b>In human societies, half-orcs have a few more options. Many find it easy to take advantage of the brute strength and work as mercenaries or caravan guards. Crime is another easy route for half-orcs, as there are plenty of criminals looking for a strong arm. Half-orc clerics in human communities are fairly rare; the more religious half-orcs more often turn to (or get pushed to) the martial aspects of religious service and become paladins or inquisitors. Half-orcs usually lack the patience and money required to become a wizard.
 
 Males names: Ausk, Davor, Hakak, Kizziar, Makoa, Nesteruk, Tsadok.
 
@@ -61,7 +62,7 @@ Female names: Canan, Drogheda, Goruza, Mazon, Shirish, Tevaga, Zeljka.
     <li><b>Weapon Familiarity: </b>Half-orcs are proficient with greataxes and falchions and treat any weapon with the word “orc” in its name as a martial weapon.</li>
     <li><b>Darkvision:</b> Half-orcs can see in the dark up to 60 feet.</li>
   <!-- /.row -->
-  <h2>Racial Feats</h2>
+  <h3>Racial Feats</h3>
 
     <li>Beast Rider</li>
     <li>Blood Vengeance</li>

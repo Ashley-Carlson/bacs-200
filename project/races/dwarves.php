@@ -4,7 +4,7 @@
   include('../layout/header.php');
 ?>
 <div class="container">
-
+  <br><br><br><br><br>
   <!-- Page Heading/Breadcrumbs -->
   <h1 class="mt-4 mb-3">Dwarves</h1>
 
@@ -32,13 +32,13 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
     <div>
       <b>Physical Description</b>: Dwarves are a short and stocky race, and stand about a foot shorter than most humans, with wide, compact bodies that account for their burly appearance. Male and female dwarves pride themselves on the long length of their hair, and men often decorate their beards with a variety of clasps and intricate braids. Clean-shavenness on a male dwarf is a sure sign of madness, or worse—no one familiar with their race trusts a beardless dwarven man.
 
-      Society: The great distances between dwarves’ mountain citadels account for many of the cultural differences that exist within their society. Despite these schisms, dwarves throughout the world are characterized by their love of stonework, their passion for stone- and metal-based craftsmanship and architecture, and their fierce hatred of giants, orcs, and goblinoids. In some remote enclaves, such as those areas where these races are uncommon or unheard of, dwarves’ fixation on security and safety combined with their rather pugnacious nature leads them to find enemies or at least rivals wherever they settle. While they are not precisely militaristic, they learned long ago that those without axes can be hewn apart by them, and thus dwarves everywhere are schooled to be ready to enforce their rights and claims by force of arms. When their patience with diplomacy is exhausted, dwarves do not hesitate to adopt what they call “aggressive negotiations.”
+      <b>Society:</b> The great distances between dwarves’ mountain citadels account for many of the cultural differences that exist within their society. Despite these schisms, dwarves throughout the world are characterized by their love of stonework, their passion for stone- and metal-based craftsmanship and architecture, and their fierce hatred of giants, orcs, and goblinoids. In some remote enclaves, such as those areas where these races are uncommon or unheard of, dwarves’ fixation on security and safety combined with their rather pugnacious nature leads them to find enemies or at least rivals wherever they settle. While they are not precisely militaristic, they learned long ago that those without axes can be hewn apart by them, and thus dwarves everywhere are schooled to be ready to enforce their rights and claims by force of arms. When their patience with diplomacy is exhausted, dwarves do not hesitate to adopt what they call “aggressive negotiations.”
 
-      Relations: Dwarves and orcs have long dwelt in proximity to one another, and share a history of violence as old as both races. Dwarves generally distrust and shun half-orcs. They find elves, gnomes, and halflings to be too frail, flighty, or “pretty” to be worthy of proper respect. It is with humans that dwarves share the strongest link, for humans’ industrious nature and hearty appetites come closest to matching those of the dwarven ideal.
+      <b>Relations:</b> Dwarves and orcs have long dwelt in proximity to one another, and share a history of violence as old as both races. Dwarves generally distrust and shun half-orcs. They find elves, gnomes, and halflings to be too frail, flighty, or “pretty” to be worthy of proper respect. It is with humans that dwarves share the strongest link, for humans’ industrious nature and hearty appetites come closest to matching those of the dwarven ideal.
 
-      Alignment and Religion: Dwarves are driven by honor and tradition. While they are often stereotyped as standoffish, they have a strong sense of friendship and justice, and those who win their trust understand that while they work hard, they play even harder—especially when good ale is involved. Most dwarves are lawful good.
+      <b>Alignment and Religion</b> Dwarves are driven by honor and tradition. While they are often stereotyped as standoffish, they have a strong sense of friendship and justice, and those who win their trust understand that while they work hard, they play even harder—especially when good ale is involved. Most dwarves are lawful good.
 
-      Adventurers: Although dwarven adventurers are rare compared to humans, they can be found in most regions of the world. Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels from racial enemies. Dwarven warfare is often characterized by tunnel fighting and melee combat, and as such most dwarves tend toward classes such as fighters and barbarians.
+      <b>Adventurers:</b> Although dwarven adventurers are rare compared to humans, they can be found in most regions of the world. Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels from racial enemies. Dwarven warfare is often characterized by tunnel fighting and melee combat, and as such most dwarves tend toward classes such as fighters and barbarians.
 
       Male Names: Dolgrin, Grunyar, Harsk, Kazmuk, Morgrym, Rogar.
 
@@ -61,7 +61,7 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
     <li><b>Weapon Familiarity:</b> Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.</li>
 </ul>
   <!-- /.row -->
-  <h2>Racial Feats</h2>
+  <h3>Racial Feats</h3>
 <ul>
     <li>Breadth of Experience</li>
     <li>Brewmaster</li>

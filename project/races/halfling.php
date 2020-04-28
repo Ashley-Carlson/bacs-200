@@ -61,7 +61,7 @@ Female Names: Anafa, Bellis, Etune, Filiu, Irlana, Marra, Pressi, Rilka, Sistra,
     <li><b>Weapon Familiarity:</b>Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.</li>
     <li><b>Keen Senses:</b>  Halflings receive a +2 racial bonus on Perception checks.</li>
     <!-- /.row -->
-  <h2>Racial Feats</h2>
+  <h3>Racial Feats</h3>
 
     <li>Adaptive Fortune</li>
     <li>Blundering Defense</li>
