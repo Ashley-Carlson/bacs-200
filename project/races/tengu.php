@@ -19,7 +19,7 @@
   <div class="row">
 
     <div class="col-md-8">
-      <img class="img-fluid" src=../images/tengu.png alt="" height = 30em>
+      <img class="img-fluid" src=../images/tengu.png alt="" height = 300em>
     </div>
     <h2>Description</h2>
     <!-- /.remaining text -->
