@@ -29,12 +29,12 @@
         </div>
 
         <div class="col-md-3 widget">
-          <h3 class="widget-title">Follow me</h3>
+          <h3 class="widget-title">For More Information:</h3>
           <div class="widget-body">
             <p class="follow-me-icons">
-              <a href=""><i class="fa fa-twitter fa-2"></i></a>
-              <a href="https://github.com/Ashley-Carlson"><i class="fa fa-github fa-2"></i></a>
-              <a href=""><i class="fa fa-facebook fa-2"></i></a>
+              <a href="https://twitter.com/paizo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><i class="fa fa-twitter fa-2"></i></a>
+              <a href="https://github.com/Ashley-Carlson/bacs-200"><i class="fa fa-github fa-2"></i></a>
+              <a href="https://www.facebook.com/paizo/"><i class="fa fa-facebook fa-2"></i></a>
             </p>
           </div>
         </div>

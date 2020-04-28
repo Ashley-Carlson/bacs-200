@@ -10,7 +10,7 @@
 
   <ol class="breadcrumb">
     <li><a href="index.html">Home</a></li>
-    <li class="active">About</li>
+    <li class="active">Contact</li>
   </ol>
 
   <div class="row">
@@ -22,7 +22,7 @@
       </header>
 
       <p>
-        We’d love to hear from you. Interested in working together? Fill out the form below with some info about your project and I will get back to you as soon as I can. Please allow a couple days for me to respond.
+        We would love to hear your feedback! If you would like to work together or recomend additional content then fill out the form below with some info and I will get back to you as soon as I can. Please allow a couple days for me to respond.
       </p>
       <br>
         <form>
@@ -61,13 +61,13 @@
     <aside class="col-sm-3 sidebar sidebar-right">
 
       <div class="widget">
-        <h4>Address</h4>
+        <h4>Email</h4>
         <address>
-          2002 Holcombe Boulevard, Houston, TX 77030, USA
+          carl7268@bears.unco.edu
         </address>
-        <h4>Phone:</h4>
+        <h4>Discord</h4>
         <address>
-          (713) 791-1414
+          bethemelly#1350
         </address>
       </div>
 
