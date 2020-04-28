@@ -26,18 +26,19 @@
     <p>  Cruel and cunning, drow are a dark reflection of the elven race. Also called dark elves, they dwell deep underground in elaborate cities shaped from the rock of cyclopean caverns. Drow seldom make themselves known to surface folk, preferring to remain legends while advancing their sinister agendas through proxies and agents. Drow have no love for anyone but themselves, and are adept at manipulating other creatures. While they are not born evil, malignancy is deep-rooted in their culture and society, and nonconformists rarely survive for long. Some stories tell that given the right circumstances, a particularly hateful elf might turn into a drow, though such a transformation would require a truly heinous individual.
 </p>
     <div>
+      <br>
       <b>Physical Description:</b> Drow are similar in stature to humans, but share the slender build and features of elves, including the distinctive long, pointed ears. Their eyes lack pupils and are usually solid white or red. Drow skin ranges from coal black to a dusky purple. Their hair is typically white or silver, though some variation is not unknown.
-
+<br>
       <b>Society</b>:  Drow society is traditionally class-oriented and matriarchal. Male drow usually fulfill martial roles, defending the species from external threats, while female drow assume positions of leadership and authority. Reinforcing these gender roles, one in 20 drow are born with exceptional abilities and thus considered to be nobility, and the majority of these special drow are female. Noble houses define drow politics, with each house governed by a noble matriarch and composed of lesser families, business enterprises, and military companies. Each house is also associated with a demon lord patron. Drow are strongly driven by individual self-interest and advancement, which shapes their culture with seething intrigue and politics, as common drow jockey for favor of the nobility, and the nobility rise in power through a combination of assassination, seduction, and treachery.
-
+<br>
       <b>Relations:</b>   Drow have a strong sense of racial superiority and divide non-drow into two groups: slaves, and those that are not yet slaves. In practice, however, races that may share similar inclinations (such as hobgoblins and orcs) and those who serve willingly may be treated as servitor races and granted a measure of trust and modest rank in drow society. Others, such as dwarves, gnomes, and halflings, are deemed fit only for the lash. Manipulative drow delight in exploiting the weak character of humans. While they claim no kinship with fetchlings, the drow harbor a curiosity toward the shadow race, as both are adaptations of races exposed to extreme and dangerous conditions. Finally, the drow’s hatred of elves sets these beings apart from all other races, and the dark elves desire nothing more than to ruin everything about their surface cousins.
-
+<br>
       <b>Alignment and Religion</b>:Drow place a premium on power and survival, and are unapologetic about any vile choices they might make to ensure their survival. After all, they do not just survive adversity—they conquer it. They have no use for compassion, and are unforgiving of their enemies, both ancient and contemporary. Drow retain the elven traits of strong emotion and passion, but channel it through negative outlets, such as hatred, vengeance, lust for power, and raw carnal sensation. Consequently, most drow are chaotic evil. Demon lords are their chosen patrons, sharing their inclination toward power and destruction.
-
+<br>
       <b>Adventurers:</b> Conquerors and slavers, drow are driven to expand their territory, and many seek to settle ancient grudges upon elven and dwarven nations in ruinous and dreary sites of contested power on the surface. Male drow favor martial or stealth classes that put them close to their enemies and their homes, as either soldiers or spies. Female drow typically assume classes that lend themselves to leadership, such as bards and especially clerics. Both genders have an innate talent for the arcane arts, and may be wizards or summoners. Drow make natural antipaladins, but males are often discouraged from this path, as the feminine nobility feel discomforted by the idea of strong-willed males with autonomous instincts and a direct relationship with a demon lord.
-
+<br>
 Male Names: Arcavato, Drovic, Firyin, Kaelmourn, Mirrendier, Pharnox, Syrendross, Zov.
-
+<br>
 Female Names: Belmarniss, Cylellinth, Ilvaria, Johysis, Loscivia, Tyvorhan, Ulumbralya, Volundeil.
     </div>
     <h2>Racial Traits</h2>

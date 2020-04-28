@@ -66,8 +66,8 @@
 							<li><a href="https://fennecology.com/bacs200/project/races/drow.php">Drow</a></li>
 							<li><a href="https://fennecology.com/bacs200/project/races/aasimar.php">Aasimar</a></li>
 							<li><a href="https://fennecology.com/bacs200/project/races/catfolk.php">Catfolk	</a></li>
-							<li><a href="sidebar-left.html">Dhampir</a></li>
-							<li><a href="sidebar-left.html">Tengu</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/dhampir.php">Dhampir</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/tengu.php">Tengu</a></li>
 							<li class="active"><a href="https://www.d20pfsrd.com/races/">Other</a></li>
 						</ul>
           <li><a href="https://www.d20pfsrd.com/magic-items/">Magic Items</a></li>
