@@ -70,25 +70,6 @@
 							<li><a href="sidebar-left.html">Tengu</a></li>
 							<li class="active"><a href="https://www.d20pfsrd.com/races/">Other</a></li>
 						</ul>
-            <li class="dropdown">
-  						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Classes<b class="caret"></b></a>
-  						<ul class="dropdown-menu">
-  							<li><a href="sidebar-left.html">Barbarian</a></li>
-								<li><a href="sidebar-left.html">Bard</a></li>
-								<li><a href="sidebar-left.html">Cleric</a></li>
-								<li><a href="sidebar-left.html">Druid</a></li>
-								<li><a href="sidebar-left.html">Fighter</a></li>
-								<li><a href="sidebar-left.html">Monk</a></li>
-								<li><a href="sidebar-left.html">Rogue</a></li>
-								<li><a href="sidebar-left.html">Paladin</a></li>
-								<li><a href="sidebar-left.html">Ranger</a></li>
-								<li><a href="sidebar-left.html">Sourcerer	</a></li>
-								<li><a href="sidebar-left.html">Wizard</a></li>
-								<li><a href="sidebar-left.html">Ninja</a></li>
-								<li><a href="sidebar-left.html">Slayer</a></li>
-  							<li class="active"><a href="https://www.d20pfsrd.com/classes/">Other</a></li>
-  						</ul>
-					</li>
           <li><a href="https://www.d20pfsrd.com/magic-items/">Magic Items</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/contact.php">Contact</a></li>
 					<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
