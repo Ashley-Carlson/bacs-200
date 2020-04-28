@@ -7,20 +7,20 @@
 
   <!-- Page Heading/Breadcrumbs -->
   <br><br><br><br><br>
-  <h1 class="mt-4 mb-3">Drow</h1>
+  <h1 class="mt-4 mb-3">Catfolk</h1>
 
   <ol class="breadcrumb">
     <li class="breadcrumb-item">
       <a href="fennecology.com/bacs200/projects">Home</a>
     </li>
-    <li class="breadcrumb-item active">Drow</li>
+    <li class="breadcrumb-item active">Catfolk</li>
   </ol>
 
   <!-- Portfolio Item Row -->
   <div class="row">
 
     <div class="col-md-8">
-      <img class="img-fluid" src=../images/drow.png alt="">
+      <img class="img-fluid" src=../images/catfolk.png alt="">
     </div>
     <h2>Description</h2>
     <!-- /.remaining text -->
