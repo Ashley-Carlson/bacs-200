@@ -59,18 +59,15 @@
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Races<b class="caret"></b></a>
 						<ul class="dropdown-menu">
 							<li><a href="https://fennecology.com/bacs200/project/races/dwarves.php">Dwarves</a></li>
-							<li><a href="sidebar-left.html">Elf</a></li>
-							<li><a href="sidebar-left.html">Gnome</a></li>
-							<li><a href="sidebar-left.html">Half Elf</a></li>
-							<li><a href="sidebar-left.html">Half Orc</a></li>
-							<li><a href="sidebar-left.html">Halfling</a></li>
-							<li><a href="sidebar-left.html">Human</a></li>
-							<li><a href="sidebar-left.html">Drow</a></li>
-							<li><a href="sidebar-left.html">Aasimar</a></li>
-							<li><a href="sidebar-left.html">Catfolk	</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/elf.php">Elf</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/halforc.php">Half Orc</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/halfling.php">Halfling</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/human.php">Human</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/drow.php">Drow</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/aasimar.php">Aasimar</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/races/catfolk.php">Catfolk	</a></li>
 							<li><a href="sidebar-left.html">Dhampir</a></li>
 							<li><a href="sidebar-left.html">Tengu</a></li>
-							<li><a href="sidebar-left.html">Half Celestial	</a></li>
 							<li class="active"><a href="https://www.d20pfsrd.com/races/">Other</a></li>
 						</ul>
             <li class="dropdown">

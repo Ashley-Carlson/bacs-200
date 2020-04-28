@@ -59,9 +59,10 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
     <li><b>Darkvision:</b> Dwarves can see perfectly in the dark up to 60 feet</li>
     <li><b>Hatred:</b> Dwarves gain a +1 racial bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes because of their special training against these hated foes.</li>
     <li><b>Weapon Familiarity:</b> Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.</li>
+</ul>
   <!-- /.row -->
   <h2>Racial Feats</h2>
-
+<ul>
     <li>Breadth of Experience</li>
     <li>Brewmaster</li>
     <li>Cleave Through</li>
@@ -83,7 +84,7 @@ Nothing could be further from the truth, however, as dwarves are both thoughtful
     <li>Stone Singer</li>
     <li>Toxic Recovery</li>
     <li>Twin Thunders</li>
-
+</ul>
 </div>
 <?php
 // add footer

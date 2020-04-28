@@ -6,20 +6,20 @@
 <div class="container">
 
   <!-- Page Heading/Breadcrumbs -->
-  <h1 class="mt-4 mb-3">Dwarves</h1>
+  <h1 class="mt-4 mb-3">Elfs</h1>
 
   <ol class="breadcrumb">
     <li class="breadcrumb-item">
       <a href="fennecology.com/bacs200/projects">Home</a>
     </li>
-    <li class="breadcrumb-item active">Dwarves</li>
+    <li class="breadcrumb-item active">Elfs</li>
   </ol>
 
   <!-- Portfolio Item Row -->
   <div class="row">
 
     <div class="col-md-8">
-      <img class="img-fluid" src=../images/Dwarf1.png alt="">
+      <img class="img-fluid" src=../images/elf.jpg alt="">
     </div>
     <h2>Description</h2>
     <!-- /.remaining text -->
