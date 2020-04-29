@@ -3,13 +3,9 @@
   include('../layout/header.php');
 
   $filter = [];
-  $class = "All";
   if (isset($_GET["class"]))
   {
-    $class = $_GET["class"];
-    $filter = [$class => ['$ne' => "NULL"]];
-    if ($class === "sor") { $class = "sorcerer"; }
-    else if ($class === "wiz") { $class = "wizard"; }
+    $filter = [$_GET["class"] => ["$ne" => "NULL"]];
   }
   $spells = NULL;
   $emsg = NULL;
@@ -26,31 +22,31 @@
 
 <br /><br /><br /><br /><br />
 
-<h1 class="mt-4 mb-3"><?php echo ucfirst($class); ?> Spells</h1>
+<h1 class="mt-4 mb-3">Bard Spells</h1>
 
 <ol class="breadcrumb">
   <li class="breadcrumb-item">
     <a href="fennecology.com/bacs200/projects">Home</a>
   </li>
-  <li class="breadcrumb-item active"><?php echo ucfirst($class); ?> Spells</li>
+  <li class="breadcrumb-item active">Bard Spells</li>
 </ol>
 
 <table>
-  <th> Filters: </th>
-  <th><a href="spells.php?class=bard">  Bard</a></th>
-  <th><a href="spells.php?class=sor">  Sorcerer</a></th>
-  <th><a href="spells.php?class=wiz">  Wizard</a></th>
-  <th><a href="spells.php?class=cleric">  Cleric</a></th>
-  <th><a href="spells.php?class=ranger">  Ranger</a></th>
-  <th><a href="spells.php?class=paladin">  Paladin</a></th>
-  <th><a href="spells.php?class=summoner">  Summoner</a></th>
-  <th><a href="spells.php?class=alchemist">  Alchemist</a></th>
-  <th><a href="spells.php?class=witch">  Witch</a></th>
-  <th><a href="spells.php?class=inquisitor">  Inquisitor</a></th>
-  <th><a href="spells.php?class=oracle">  Oracle</a></th>
-  <th><a href="spells.php?class=druid">  Druid</a></th>
-  <th><a href="spells.php?class=antipaladin">  Antipaladin</a></th>
-  <th><a href="spells.php?class=magus">  Magus</a></th>
+  <th>Filter by:</th>
+  <th><a href="spells.php?class=bard">     Bard</a></th>
+  <th><a href="spells.php?class=sor">     Sorcerer</a></th>
+  <th><a href="spells.php?class=wiz">     Wizard</a></th>
+  <th><a href="spells.php?class=cleric">     Cleric</a></th>
+  <th><a href="spells.php?class=ranger">     Ranger</a></th>
+  <th><a href="spells.php?class=paladin">     Paladin</a></th>
+  <th><a href="spells.php?class=summoner">     Summoner</a></th>
+  <th><a href="spells.php?class=alchemist">     Alchemist</a></th>
+  <th><a href="spells.php?class=witch">     Witch</a></th>
+  <th><a href="spells.php?class=inquisitor">     Inquisitor</a></th>
+  <th><a href="spells.php?class=oracle">     Oracle</a></th>
+  <th><a href="spells.php?class=druid">     Druid</a></th>
+  <th><a href="spells.php?class=antipaladin">     Antipaladin</a></th>
+  <th><a href="spells.php?class=magus">     Magus</a></th>
 </table>
 
 <?php
@@ -58,7 +54,7 @@
     echo '<p style="color: red;">' . $emsg . '</p>';
   }
   else {
-    echo "<table style="border: 1px solid black"> ";
+    echo '<table style="border: 1px solid black">';
     foreach ($spells as $spell) {
         $spell = json_decode(json_encode($spell), true);
         echo "<tr>";
