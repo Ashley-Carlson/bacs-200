@@ -34,20 +34,21 @@
 </ol>
 
 <table>
-  <th><a href="spells.php?class=bard">Bard</a></th>
-  <th><a href="spells.php?class=sor">Sorcerer</a></th>
-  <th><a href="spells.php?class=wiz">Wizard</a></th>
-  <th><a href="spells.php?class=cleric">Cleric</a></th>
-  <th><a href="spells.php?class=ranger">Ranger</a></th>
-  <th><a href="spells.php?class=paladin">Paladin</a></th>
-  <th><a href="spells.php?class=summoner">Summoner</a></th>
-  <th><a href="spells.php?class=alchemist">Alchemist</a></th>
-  <th><a href="spells.php?class=witch">Witch</a></th>
-  <th><a href="spells.php?class=inquisitor">Inquisitor</a></th>
-  <th><a href="spells.php?class=oracle">Oracle</a></th>
-  <th><a href="spells.php?class=druid">Druid</a></th>
-  <th><a href="spells.php?class=antipaladin">Antipaladin</a></th>
-  <th><a href="spells.php?class=magus">Magus</a></th>
+  <th> Filters: </th>
+  <th><a href="spells.php?class=bard">  Bard</a></th>
+  <th><a href="spells.php?class=sor">  Sorcerer</a></th>
+  <th><a href="spells.php?class=wiz">  Wizard</a></th>
+  <th><a href="spells.php?class=cleric">  Cleric</a></th>
+  <th><a href="spells.php?class=ranger">  Ranger</a></th>
+  <th><a href="spells.php?class=paladin">  Paladin</a></th>
+  <th><a href="spells.php?class=summoner">  Summoner</a></th>
+  <th><a href="spells.php?class=alchemist">  Alchemist</a></th>
+  <th><a href="spells.php?class=witch">  Witch</a></th>
+  <th><a href="spells.php?class=inquisitor">  Inquisitor</a></th>
+  <th><a href="spells.php?class=oracle">  Oracle</a></th>
+  <th><a href="spells.php?class=druid">  Druid</a></th>
+  <th><a href="spells.php?class=antipaladin">  Antipaladin</a></th>
+  <th><a href="spells.php?class=magus">  Magus</a></th>
 </table>
 
 <?php
@@ -55,7 +56,7 @@
     echo '<p style="color: red;">' . $emsg . '</p>';
   }
   else {
-    echo "<table>";
+    echo "<table style= "border: 1px solid black"> ";
     foreach ($spells as $spell) {
         $spell = json_decode(json_encode($spell), true);
         echo "<tr>";
@@ -81,4 +82,3 @@
 // add footer
 include("../layout/footer.php");
 ?>
-

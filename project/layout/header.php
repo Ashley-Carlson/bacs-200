@@ -36,24 +36,7 @@
 				<ul class="nav navbar-nav pull-right">
 					<li class="active"><a href="">Home</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/about.php">About</a></li>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Spells<b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="https://fennecology.com/bacs200/project/spells/alchemistSpells.php">Alchemist Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/bardSpells.php">Bard Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/clericSpells.php">Cleric Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/druidSpells.php">Druid</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/magusSpells.php">Magus Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/oracleSpells.php">Oracle Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/paladinSpells.php">Paladin Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/rangerSpells.phpl">Ranger Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/sourcererSpells.php">Sourcerer	Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/wizardSpells.php">Wizard Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/witchSpells.php">Witch Spells</a></li>
-							<li><a href="https://fennecology.com/bacs200/project/spells/summonerSpells.php">Summoner Spells</a></li>
-							<li class="active"><a href="https://fennecology.com/bacs200/project/spells/spells.php">All Spells</a></li>
-						</ul>
-					</li>
+					<li><a href="https://fennecology.com/bacs200/project/spells/spells.php">About</a></li>
           <li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Races<b class="caret"></b></a>
 						<ul class="dropdown-menu">
