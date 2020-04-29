@@ -1,7 +1,7 @@
 <?php
   //include header template
   echo '<body>';
-  include('layout/header.php');
+  include('../layout/header.php');
 ?>
 <br><br><br><br><br>
 <h1 class="mt-4 mb-3">Bard Spells</h1>
@@ -42,5 +42,5 @@ $m = new MongoClient();
 ?>
 <?php
 // add footer
-include("layout/footer.php");
+include("../layout/footer.php");
 ?>
