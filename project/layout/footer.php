@@ -57,9 +57,9 @@
         <div class="col-md-6 widget">
           <div class="widget-body">
             <p class="simplenav">
-              <a href="#">Home</a> |
-              <a href="about.html">About</a> |
-              <a href="contact.html">Contact</a>
+              <a href="https://fennecology.com/bacs200/project/index.php">Home</a> |
+              <a href="https://fennecology.com/bacs200/project/about.php">About</a> |
+              <a href="https://fennecology.com/bacs200/project/contact.php">Contact</a>
             </p>
           </div>
         </div>
