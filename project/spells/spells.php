@@ -52,12 +52,26 @@
   <th>&nbsp;&nbsp;<a href="spells.php?class=magus">Magus</a></th>
 </table>
 
+<table style="border: 1px solid black">
+  <tr>
+    <th>Name</th>
+    <th>School</th>
+    <th>Spell Level</th>
+    <th>Casting Time</th>
+    <th>Components</th>
+    <th>Saving Throw</th>
+    <th>Range</th>
+    <th>Area</th>
+    <th>Spell Resistence</th>
+    <th>Duration</th>
+    <th>Target</th>
+    <th>Effect</th>
+  </tr>
 <?php
   if (isset($emsg)) {
     echo '<p style="color: red;">' . $emsg . '</p>';
   }
   else {
-    echo '<table style="border: 1px solid black">';
     foreach ($spells as $spell) {
         $spell = json_decode(json_encode($spell), true);
         echo "<tr>";
@@ -83,3 +97,4 @@
 // add footer
 include("../layout/footer.php");
 ?>
+
