@@ -36,7 +36,7 @@
 				<ul class="nav navbar-nav pull-right">
 					<li class="active"><a href="">Home</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/about.php">About</a></li>
-					<li><a href="https://fennecology.com/bacs200/project/spells/spells.php">About</a></li>
+					<li><a href="https://fennecology.com/bacs200/project/spells/spells	.php">Spells</a></li>
           <li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Races<b class="caret"></b></a>
 						<ul class="dropdown-menu">

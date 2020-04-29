@@ -58,7 +58,7 @@
     echo '<p style="color: red;">' . $emsg . '</p>';
   }
   else {
-    echo "<table style= "border: 1px solid black"> ";
+    echo "<table style="border: 1px solid black"> ";
     foreach ($spells as $spell) {
         $spell = json_decode(json_encode($spell), true);
         echo "<tr>";
