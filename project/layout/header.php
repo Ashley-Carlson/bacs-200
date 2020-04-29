@@ -39,20 +39,19 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Spells<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.html">Alchemist Spells</a></li>
-							<li><a href="sidebar-left.html">Bard Spells</a></li>
-							<li><a href="sidebar-left.html">Cleric Spells</a></li>
-							<li><a href="sidebar-left.html">Druid</a></li>
-							<li><a href="sidebar-left.html">Magus Spells</a></li>
-							<li><a href="sidebar-left.html">Monk Spells</a></li>
-							<li><a href="sidebar-left.html">Oracle Spells</a></li>
-							<li><a href="sidebar-left.html">Paladin Spells</a></li>
-							<li><a href="sidebar-left.html">Ranger Spells</a></li>
-							<li><a href="sidebar-left.html">Sourcerer	Spells</a></li>
-							<li><a href="sidebar-left.html">Wizard Spells</a></li>
-							<li><a href="sidebar-left.html">Witch Spells</a></li>
-							<li><a href="sidebar-left.html">Summoner Spells</a></li>
-							<li class="active"><a href="sidebar-right.html">All Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/alchemistSpells.php">Alchemist Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/bardSpells.php">Bard Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/clericSpells.php">Cleric Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/druidSpells.php">Druid</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/magusSpells.php">Magus Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/oracleSpells.php">Oracle Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/paladinSpells.php">Paladin Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/rangerSpells.phpl">Ranger Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/sourcererSpells.php">Sourcerer	Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/wizardSpells.php">Wizard Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/witchSpells.php">Witch Spells</a></li>
+							<li><a href="https://fennecology.com/bacs200/project/spells/summonerSpells.php">Summoner Spells</a></li>
+							<li class="active"><a href="https://fennecology.com/bacs200/project/spells/spells.php">All Spells</a></li>
 						</ul>
 					</li>
           <li class="dropdown">
@@ -71,6 +70,7 @@
 							<li class="active"><a href="https://www.d20pfsrd.com/races/">Other</a></li>
 						</ul>
           <li><a href="https://www.d20pfsrd.com/magic-items/">Magic Items</a></li>
+					<li><a href="https://fennecology.com/bacs200/project/characters.php">Pre-Generated</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/contact.php">Contact</a></li>
 					<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
 				</ul>

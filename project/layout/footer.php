@@ -59,8 +59,7 @@
             <p class="simplenav">
               <a href="#">Home</a> |
               <a href="about.html">About</a> |
-              <a href="contact.html">Contact</a> |
-              <b><a href="signup.html">Sign up</a></b>
+              <a href="contact.html">Contact</a>
             </p>
           </div>
         </div>
