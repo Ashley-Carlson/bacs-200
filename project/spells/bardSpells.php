@@ -13,32 +13,37 @@
   <li class="breadcrumb-item active">Bard Spells</li>
 </ol>
 <?php
-    $m = new MongoClient("mongodb://eva:Kittensrock333@fennecology.com");
-    $db = $m->selectDB('pathfinderDB');
-    $collection = $connection->pathfinderDB->spells
-    $filter = ["bard" => ["$gte" => 1]];
-    $results = $collection.find($filter);
+    try {
+        $m = new MongoDB\Driver\Manager("mongodb://eva:Kittensrock333@localhost:27017");
+        $filter = ['bard' => ['$ne' => "NULL"]];
+        $options = [];
 
-    $cursor = $results->find();
-    //echo "<html><head><body>";
-    echo "<table>";
-    foreach($cursor as $doc) {
-         echo "<tr>";
-            echo "<td>" . $doc['name'] . "</td>";
-            echo "<td>" . $doc['school'] . "</td>";
-            echo "<td>" . $doc['spell_level'] . "</td>";
-            echo "<td>" . $doc['casting_time'] . "</td>";
-            echo "<td>" . $doc['components'] . "</td>";
-            echo "<td>" . $doc['saving_throw'] . "</td>";
-            echo "<td>" . $doc['range'] . "</td>";
-            echo "<td>" . $doc['area'] . "</td>";
-            echo "<td>" . $doc['spell_resistence'] . "</td>";
-            echo "<td>" . $doc['duration'] . "</td>";
-            echo "<td>" . $doc['target'] . "</td>";
-            echo "<td>" . $doc['effect'] . "</td>";
-         echo "</tr>";
+        $query = new MongoDB\Driver\Query($filter, $options);
+
+        $spells = $m->executeQuery('pathfinderDB.spells', $query);
+
+        echo "<table>";
+        foreach ($spells as $spell) {
+            $spell = json_decode(json_encode($spell), true);
+            echo "<tr>";
+                echo "<td>" . $spell['name'] . "</td>";
+                echo "<td>" . $spell['school'] . "</td>";
+                echo "<td>" . $spell['spell_level'] . "</td>";
+                echo "<td>" . $spell['casting_time'] . "</td>";
+                echo "<td>" . $spell['components'] . "</td>";
+                echo "<td>" . $spell['saving_throw'] . "</td>";
+                echo "<td>" . $spell['range'] . "</td>";
+                echo "<td>" . $spell['area'] . "</td>";
+                echo "<td>" . $spell['spell_resistence'] . "</td>";
+                echo "<td>" . $spell['duration'] . "</td>";
+                echo "<td>" . $spell['target'] . "</td>";
+                echo "<td>" . $spell['effect'] . "</td>";
+            echo "</tr>";
+        }
+        echo "<table>";
+    } catch (Exception $e) {
+        echo "Exception occurred: ", $e->getMessage(), "\n";
     }
-    echo "<table>";
 ?>
 <?php
 // add footer
