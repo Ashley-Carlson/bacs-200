@@ -3,9 +3,11 @@
   include('../layout/header.php');
 
   $filter = [];
+  $class = "All";
   if (isset($_GET["class"]))
   {
-    $filter = [$_GET["class"] => ['$ne' => "NULL"]];
+    $class = $_GET["class"];
+    $filter = [$class => ['$ne' => "NULL"]];
   }
   $spells = NULL;
   $emsg = NULL;
@@ -22,13 +24,13 @@
 
 <br /><br /><br /><br /><br />
 
-<h1 class="mt-4 mb-3">Bard Spells</h1>
+<h1 class="mt-4 mb-3"><?php echo ucfirst($class); ?> Spells</h1>
 
 <ol class="breadcrumb">
   <li class="breadcrumb-item">
     <a href="fennecology.com/bacs200/projects">Home</a>
   </li>
-  <li class="breadcrumb-item active">Bard Spells</li>
+  <li class="breadcrumb-item active"><?php echo ucfirst($class); ?> Spells</li>
 </ol>
 
 <table>
