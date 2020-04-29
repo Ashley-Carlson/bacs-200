@@ -13,9 +13,9 @@
   <li class="breadcrumb-item active">Bard Spells</li>
 </ol>
 <?php
-$m = new MongoClient("mongodb://eva:Kittensrock333@fennecology.com");
+    $m = new MongoClient("mongodb://eva:Kittensrock333@fennecology.com");
     $db = $m->selectDB('pathfinderDB');
-    $collection = $connection-><pathfinderDB>-><spells>
+    $collection = $connection->pathfinderDB->spells
     $filter = ["bard" => ["$gte" => 1]];
     $results = $collection.find($filter);
 
