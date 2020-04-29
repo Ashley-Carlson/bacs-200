@@ -22,31 +22,31 @@
 
 <br /><br /><br /><br /><br />
 
-<h1 class="mt-4 mb-3">Bard Spells</h1>
+<h1 class="mt-4 mb-3"> Spells</h1>
 
 <ol class="breadcrumb">
   <li class="breadcrumb-item">
     <a href="fennecology.com/bacs200/projects">Home</a>
   </li>
-  <li class="breadcrumb-item active">Bard Spells</li>
+  <li class="breadcrumb-item active"> Spells</li>
 </ol>
 
 <table>
   <th>Filter by:</th>
-  <th><a href="spells.php?class=bard">     Bard</a></th>
-  <th><a href="spells.php?class=sor">     Sorcerer</a></th>
-  <th><a href="spells.php?class=wiz">     Wizard</a></th>
-  <th><a href="spells.php?class=cleric">     Cleric</a></th>
-  <th><a href="spells.php?class=ranger">     Ranger</a></th>
-  <th><a href="spells.php?class=paladin">     Paladin</a></th>
-  <th><a href="spells.php?class=summoner">     Summoner</a></th>
-  <th><a href="spells.php?class=alchemist">     Alchemist</a></th>
-  <th><a href="spells.php?class=witch">     Witch</a></th>
-  <th><a href="spells.php?class=inquisitor">     Inquisitor</a></th>
-  <th><a href="spells.php?class=oracle">     Oracle</a></th>
-  <th><a href="spells.php?class=druid">     Druid</a></th>
-  <th><a href="spells.php?class=antipaladin">     Antipaladin</a></th>
-  <th><a href="spells.php?class=magus">     Magus</a></th>
+  <th><a href="spells.php?class=bard">&nbsp;&nbsp;Bard</a></th>
+  <th><a href="spells.php?class=sor">&nbsp;&nbsp;Sorcerer</a></th>
+  <th><a href="spells.php?class=wiz">&nbsp;&nbsp;Wizard</a></th>
+  <th><a href="spells.php?class=cleric">&nbsp;&nbsp;Cleric</a></th>
+  <th><a href="spells.php?class=ranger">&nbsp;&nbsp;Ranger</a></th>
+  <th><a href="spells.php?class=paladin">&nbsp;&nbsp;Paladin</a></th>
+  <th><a href="spells.php?class=summoner">&nbsp;&nbsp;Summoner</a></th>
+  <th><a href="spells.php?class=alchemist">&nbsp;&nbsp;Alchemist</a></th>
+  <th><a href="spells.php?class=witch">&nbsp;&nbsp;Witch</a></th>
+  <th><a href="spells.php?class=inquisitor">&nbsp;&nbsp;Inquisitor</a></th>
+  <th><a href="spells.php?class=oracle">&nbsp;&nbsp;Oracle</a></th>
+  <th><a href="spells.php?class=druid">&nbsp;&nbsp;Druid</a></th>
+  <th><a href="spells.php?class=antipaladin">&nbsp;&nbsp;Antipaladin</a></th>
+  <th><a href="spells.php?class=magus">&nbsp;&nbsp;Magus</a></th>
 </table>
 
 <?php
