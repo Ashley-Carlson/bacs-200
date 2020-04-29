@@ -8,6 +8,8 @@
   {
     $class = $_GET["class"];
     $filter = [$class => ['$ne' => "NULL"]];
+    if ($class === "sor") { $class = "sorcerer"; }
+    else if ($class === "wiz") { $class = "wizard"; }
   }
   $spells = NULL;
   $emsg = NULL;
