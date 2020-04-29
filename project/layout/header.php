@@ -34,9 +34,9 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li class="active"><a href="">Home</a></li>
+					<li class="active"><a href="https://fennecology.com/bacs200/project/index.php">Home</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/about.php">About</a></li>
-					<li><a href="https://fennecology.com/bacs200/project/spells/spells	.php">Spells</a></li>
+					<li><a href="https://fennecology.com/bacs200/project/spells/spells.php">Spells</a></li>
           <li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Races<b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -55,7 +55,6 @@
           <li><a href="https://www.d20pfsrd.com/magic-items/">Magic Items</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/characters.php">Pre-Generated</a></li>
 					<li><a href="https://fennecology.com/bacs200/project/contact.php">Contact</a></li>
-					<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
