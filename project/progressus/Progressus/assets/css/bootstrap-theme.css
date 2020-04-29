@@ -56,19 +56,11 @@
 .navbar-fixed-top,
 .navbar-fixed-bottom { border-radius: 0; }
 
-
-#all{
-	/* https://stackoverflow.com/questions/8366957/how-to-center-an-iframe-horizontally */
-    width:100%;
-    float:left;
-    text-align:center;
-}
-div.sub, iframe {
-    width: 80%;
-    height: 900em;
-    margin: 0 auto;
-    background-color: #777;
-
+iframe {
+    width: 80% !important;
+    height: 900em !important;
+    margin: 0 auto !important;
+    background-color: #777 !important;
 }
 
 
