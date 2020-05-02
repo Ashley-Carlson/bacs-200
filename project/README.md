@@ -1,8 +1,7 @@
-Progressus - Free business/corporate Bootstrap template
+Pathfinder Compendium
 =============
-
-Progressus is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework.
-
+Bootstrap:
+  Progressus
 
 License
 -------
@@ -12,17 +11,21 @@ License
 Features
 -----------
 
-* Easy to use, fat-free HTML and CSS code.
-* 7 ready-made templates for most common tasks
+* Race information
+* Spells by class
 * Responsive design
-* High overral quality, the template does worth to be premium.
+* Contact page that emails the owner
+* About page for legal disclaimers
+* Social Media Links in footer
+* Page with Pre-generated characters
+* Link to DB of Magic Items
 
 
 Bug tracker
 -----------
 
 Found a bug? Please create an issue here on GitHub!
-https://github.com/pozh/Progressus/issues
+https://github.com/Ashley-Carlson/bacs-200/tree/master/project
 
 
 Credits
